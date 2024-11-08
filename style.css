@@ -1,0 +1,19 @@
+#alert{
+    background-image: url(success-icon-23194.png);
+    background-repeat: no-repeat;
+    width: 100px;
+    height: 100px;
+    display: block;
+    position: absolute;
+}
+#showCase.success{
+    background: url(success-icon-23194.png);
+    background-repeat: no-repeat;
+    display: block;
+    z-index: 1;
+}
+#showCase.unsuccess{
+    background: url(error-failure-10382.png);
+    background-repeat: no-repeat;
+    display: block;
+}
